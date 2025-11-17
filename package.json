@@ -1,5 +1,5 @@
 {
-  "name": "@apartmentadvisor/react-mentions",
+  "name": "react-mentions-19",
   "version": "4.7.0",
   "description": "React mentions input",
   "main": "dist/react-mentions.cjs.js",
@@ -20,7 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/signavio/react-mentions.git"
+    "url": "https://github.com/apartment-advisor/react-mentions.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "keywords": [
     "react",
